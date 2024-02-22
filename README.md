@@ -1,6 +1,6 @@
 # Encrypt-Your-Data
 
-- Data masking utility written in Python which implements pseudonymization and annonmyzation of data using bouncy castle's FPE encryption algorithms.
+- Data masking application written in Python, which implements pseudonymization and annonmyzation of data using bouncy castle's FPE encryption algorithms.
 
 # System requirements
 
